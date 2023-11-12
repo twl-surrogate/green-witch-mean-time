@@ -191,7 +191,7 @@
   "config.skinLibrary.theWhitePumpkinSkin.title": "The White Pumpkin",
 
   "watchingSkin.customSkinPack.name": "Custom Skins",
-  "watchingSkin.customSkin1.name": "Custom Skin 1",
+  "watchingSkin.customSkin1.name": "Herogreen",
   "watchingSkin.customSkin2.name": "Custom Skin 2",
   "watchingSkin.customSkin3.name": "Custom Skin 3",
   "watchingSkin.customSkin4.name": "Custom Skin 4",
@@ -200,12 +200,12 @@
 
 
   "sign.type1.line1": "",
-  "sign.type1.line2": "I'm watching...",
+  "sign.type1.line2": "Green witch mean time",
   "sign.type1.line3": "",
   "sign.type1.line4": "",
 
   "sign.type2.line1": "",
-  "sign.type2.line2": "Help",
+  "sign.type2.line2": "HeroGreen has joined the Server",
   "sign.type2.line3": "",
   "sign.type2.line4": "",
 
@@ -215,7 +215,7 @@
   "sign.type3.line4": "",
 
   "sign.type4.line1": "",
-  "sign.type4.line2": "Hello there,",
+  "sign.type4.line2": "herogreen has raped",
   "sign.type4.line3": "THIS IS THE PLAYERS USERNAME, CHANGING THIS HAS NO EFFECT.",
   "sign.type4.line4": "",
 
@@ -353,5 +353,37 @@
   "chat.sighting_summons.creeping.tutorial.description": "This command activates the creeping mechanic and spawns Herobrine behind the player it is executed on.",
   "chat.sighting_summons.stalking.tutorial.description": "This command activates the stalking mechanic and spawns Herobrine somewhere around the player it is executed on. Herobrine may not spawn if his spawnpoint is determined to be in the line of sight another player.",
   "chat.sighting_summons.nightmare.tutorial.description": "This command activates the nightmare mechanic and spawns Herobrine at the foot of the bed of the player it is executed on. Herobrine will not spawn if the player isn't in a bed.",
-  "chat.sighting_summons.lurking.tutorial.description": "This command activates the lurking mechanic and spawns Herobrine somewhere off in the distance around the player it is executed on. Herobrine may not spawn if his spawnpoint is determined to be within 40 blocks of a player."
+  "chat.sighting_summons.lurking.tutorial.description": "This command activates the lurking mechanic and spawns Herobrine somewhere off in the distance around the player it is executed on. Herobrine may not spawn if his spawnpoint is determined to be within 40 blocks of a player.",
+
+  "item.minecraft.emerald": "Green Gem",
+  "block.minecraft.emerald_block": "Block of Green Gems",
+  "block.minecraft.emerald_ore": "Green Gem Ore",
+  "item.minecraft.music_disc_chirp.desc": "itchy lusy - Stranger",
+  "subtitles.entity.creeper.death": "Greenis dies",
+  "subtitles.entity.creeper.hurt": "Greenis hurts",
+  "subtitles.entity.creeper.primed": "Greenis hisses",
+  "block.minecraft.banner.creeper.black": "Black Greenis Charge",
+  "block.minecraft.banner.creeper.blue": "Blue Greenis Charge",
+  "block.minecraft.banner.creeper.brown": "Brown Greenis Charge",
+  "block.minecraft.banner.creeper.cyan": "Cyan Greenis Charge",
+  "block.minecraft.banner.creeper.gray": "Gray Greenis Charge",
+  "block.minecraft.banner.creeper.green": "Green Greenis Charge",
+  "block.minecraft.banner.creeper.light_blue": "Light Blue Greenis Charge",
+  "block.minecraft.banner.creeper.light_gray": "Light Gray Greenis Charge",
+  "block.minecraft.banner.creeper.lime": "Lime Greenis Charge",
+  "block.minecraft.banner.creeper.magenta": "Magenta Greenis Charge",
+  "block.minecraft.banner.creeper.orange": "Orange Greenis Charge",
+  "block.minecraft.banner.creeper.pink": "Pink Greenis Charge",
+  "block.minecraft.banner.creeper.purple": "Purple Greenis Charge",
+  "block.minecraft.banner.creeper.red": "Red Greenis Charge",
+  "block.minecraft.banner.creeper.white": "White Greenis Charge",
+  "block.minecraft.banner.creeper.yellow": "Yellow Greenis Charge",
+  "block.minecraft.creeper_head": "Greenis Head",
+  "block.minecraft.creeper_wall_head": "Greenis Wall Head",
+  "entity.minecraft.creeper": "Greenis",
+  "item.minecraft.creeper_banner_pattern.desc": "Greenis Charge",
+  "item.minecraft.creeper_spawn_egg": "Greenis Spawn Egg",
+  "item.minecraft.firework_star.shape.creeper": "Greenis-shaped",
+  "menu.playerReporting": "Free Hogs Cheap",
+  "multiplayer.unsecureserver.toast": "HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^ HELLO 'o' HELLO HI ^.^ HELLO 'o' HELLO HI HELLO ^.^"
 }
